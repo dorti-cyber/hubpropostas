@@ -1,0 +1,522 @@
+[
+  {
+    "code": "100001",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Material",
+    "name": "Etiqueta Mini Danfe/Marketplace | 100x150",
+    "billingUnit": "Etiqueta",
+    "sourceValue": null
+  },
+  {
+    "code": "100002",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Material",
+    "name": "Etiqueta de expedição | 100x75",
+    "billingUnit": "Etiqueta",
+    "sourceValue": null
+  },
+  {
+    "code": "100003",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Material",
+    "name": "Etiqueta de sinalização \"frágil\"",
+    "billingUnit": "Etiqueta",
+    "sourceValue": null
+  },
+  {
+    "code": "100004",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Material",
+    "name": "Ribbon | 110 x 74",
+    "billingUnit": "Etiqueta",
+    "sourceValue": null
+  },
+  {
+    "code": "100005",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Material",
+    "name": "Ribbon | 110 x 450",
+    "billingUnit": "Etiqueta",
+    "sourceValue": null
+  },
+  {
+    "code": "100101",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Serviço",
+    "name": "Etiquetagem de palete | 100x75",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "100102",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Serviço",
+    "name": "Etiquetagem de caixa máster | 100x75",
+    "billingUnit": "Caixa",
+    "sourceValue": null
+  },
+  {
+    "code": "100103",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Serviço",
+    "name": "Etiquetagem de mercadorias",
+    "billingUnit": "Item processado",
+    "sourceValue": "Consultar tamanho/valor"
+  },
+  {
+    "code": "100104",
+    "family": "10 - Etiquetas e impressão térmica",
+    "nature": "Serviço",
+    "name": "Impressão térmica de etiquetas",
+    "billingUnit": "Item processado",
+    "sourceValue": "Consultar tamanho/valor"
+  },
+  {
+    "code": "200002",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | cinza | 32 x 40",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200003",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | cinza | 19 x 25",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200004",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | cinza | 60 x 50",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200005",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | preto | 40 x 50",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200006",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | preto | 13 x 15",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200007",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | preto | 50 x 60",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200008",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | preto | 32 x 40",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200009",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | preto | 19 x 25",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "200010",
+    "family": "20 - Envelopes e porta-documentos",
+    "nature": "Material",
+    "name": "Envelope para expedição | preto | 100 x 90",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "300001",
+    "family": "30 - Fitas e fixação",
+    "nature": "Material",
+    "name": "Fita larga transparente",
+    "billingUnit": "Rolo",
+    "sourceValue": null
+  },
+  {
+    "code": "300002",
+    "family": "30 - Fitas e fixação",
+    "nature": "Material",
+    "name": "Fita larga personalizada",
+    "billingUnit": "Rolo",
+    "sourceValue": null
+  },
+  {
+    "code": "300003",
+    "family": "30 - Fitas e fixação",
+    "nature": "Material",
+    "name": "Fita gomada lisa",
+    "billingUnit": "Rolo",
+    "sourceValue": null
+  },
+  {
+    "code": "300004",
+    "family": "30 - Fitas e fixação",
+    "nature": "Material",
+    "name": "Fita gomada personalizada",
+    "billingUnit": "Rolo",
+    "sourceValue": null
+  },
+  {
+    "code": "400001",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Filme stretch",
+    "billingUnit": "Bobina",
+    "sourceValue": null
+  },
+  {
+    "code": "400002",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Plástico-bolha para proteção",
+    "billingUnit": "Rolo",
+    "sourceValue": null
+  },
+  {
+    "code": "400003",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Papel kraft | Pequeno",
+    "billingUnit": "Bobina",
+    "sourceValue": null
+  },
+  {
+    "code": "400004",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Papel kraft | Grande",
+    "billingUnit": "Bobina",
+    "sourceValue": null
+  },
+  {
+    "code": "400005",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Semi-kraft",
+    "billingUnit": "Bobina",
+    "sourceValue": null
+  },
+  {
+    "code": "400006",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Chapatex",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "400007",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Bolha almofada de ar",
+    "billingUnit": "Rolo",
+    "sourceValue": null
+  },
+  {
+    "code": "400008",
+    "family": "40 - Proteção e embalagem",
+    "nature": "Material",
+    "name": "Caixa de papelão",
+    "billingUnit": "Unidade",
+    "sourceValue": "Consultar tamanho/valor"
+  },
+  {
+    "code": "500101",
+    "family": "50 - Paletes e paletização",
+    "nature": "Serviço",
+    "name": "Paletização de mercadorias | PBR: 1,00 x 1,20",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "600001",
+    "family": "60 - Papel e impressão documental",
+    "nature": "Material",
+    "name": "Papel A4",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "700002",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Faturamento mínimo mensal",
+    "billingUnit": "Percentual/mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700003",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Seguro sobre mercadorias em estoque",
+    "billingUnit": "Percentual/mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700005",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Percentual sobre faturamento | Crossdocking",
+    "billingUnit": "Percentual/mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700006",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Percentual sobre faturamento | Atacado",
+    "billingUnit": "Percentual/mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700007",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Percentual sobre faturamento | Varejo",
+    "billingUnit": "Percentual/mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700008",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Valor mínimo | Crossdocking",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700009",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Valor mínimo | Atacado",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700010",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Valor mínimo | Varejo",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700013",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Aluguel de sala virtual | Por CNPJ",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700014",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Pico de armazenagem de palete",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700015",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Posição de palete",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "700016",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Carência",
+    "billingUnit": "Dia",
+    "sourceValue": null
+  },
+  {
+    "code": "700017",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Aluguel de sala física | Por CNPJ",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700101",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Recebimento por caixa master",
+    "billingUnit": "Caixa master",
+    "sourceValue": null
+  },
+  {
+    "code": "700102",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Recebimento por palete",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "700103",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Expedição por palete",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "700104",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Atendimento de pedidos",
+    "billingUnit": "Pedido",
+    "sourceValue": null
+  },
+  {
+    "code": "700201",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Descarga não paletizada | Truck",
+    "billingUnit": "Veículo",
+    "sourceValue": null
+  },
+  {
+    "code": "700202",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Descarga não paletizada | Carreta",
+    "billingUnit": "Veículo",
+    "sourceValue": null
+  },
+  {
+    "code": "700203",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Descarga paletizada | Caminhão Truck",
+    "billingUnit": "Veículo",
+    "sourceValue": null
+  },
+  {
+    "code": "700204",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Descarga paletizada | Carreta",
+    "billingUnit": "Veículo",
+    "sourceValue": null
+  },
+  {
+    "code": "700205",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Descarga paletizada | Contêiner",
+    "billingUnit": "Veículo",
+    "sourceValue": null
+  },
+  {
+    "code": "700206",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Descarga não paletizada | Contêiner",
+    "billingUnit": "Veículo",
+    "sourceValue": null
+  },
+  {
+    "code": "700301",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Funcionário dedicado",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "700302",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Mão de obra | Pessoa/dia",
+    "billingUnit": "Pessoa/dia",
+    "sourceValue": null
+  },
+  {
+    "code": "700303",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Serviço",
+    "name": "Mão de obra | Pessoa/hora",
+    "billingUnit": "Pessoa/hora",
+    "sourceValue": null
+  },
+  {
+    "code": "800101",
+    "family": "80 - RMA e logística reversa",
+    "nature": "Serviço",
+    "name": "Processamento de RMA",
+    "billingUnit": "Unidade recebida",
+    "sourceValue": null
+  },
+  {
+    "code": "800102",
+    "family": "80 - RMA e logística reversa",
+    "nature": "Serviço",
+    "name": "Posição de palete RMA",
+    "billingUnit": "Posição de palete",
+    "sourceValue": null
+  },
+  {
+    "code": "800103",
+    "family": "80 - RMA e logística reversa",
+    "nature": "Serviço",
+    "name": "Funcionário dedicado para RMA",
+    "billingUnit": "Mês",
+    "sourceValue": null
+  },
+  {
+    "code": "800104",
+    "family": "80 - RMA e logística reversa",
+    "nature": "Serviço",
+    "name": "Etiquetagem de palete RMA",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "800105",
+    "family": "80 - RMA e logística reversa",
+    "nature": "Serviço",
+    "name": "Aplicação de filme stretch em RMA",
+    "billingUnit": "Palete",
+    "sourceValue": null
+  },
+  {
+    "code": "700018",
+    "family": "70 - Armazenagem, movimentação e serviços operacionais",
+    "nature": "Condição comercial",
+    "name": "Setup de medicamentos refrigerados",
+    "billingUnit": "Unidade",
+    "sourceValue": null
+  },
+  {
+    "code": "CUSTOM-65",
+    "family": null,
+    "nature": null,
+    "name": "Outros | Descrever",
+    "billingUnit": null,
+    "sourceValue": null
+  }
+]
